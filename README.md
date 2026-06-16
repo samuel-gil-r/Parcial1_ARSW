@@ -32,3 +32,7 @@ npm run dev
 <img width="1148" height="533" alt="image" src="https://github.com/user-attachments/assets/df88501b-fb1a-401a-b4ef-52a6dc9296f3" />
 
 # video
+- en el video se logra evidenciar como en el front no se tiene conexion hasta generar el inicio del back donde se implementa la generacion de los turnos y la conexion del websocket donde como se mostro en el diagrama los pacientes y la recepcion estan conectados al front que se conecta con el back que tiene el cliente concurrente.
+```
+https://youtu.be/VaeNJ6jDAuo
+```  
