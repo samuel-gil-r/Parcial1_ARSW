@@ -1,5 +1,5 @@
 # Parcial1_ARSW
-**Nombre:** Samuel Antonio Gil  
+**Nombre:** Samuel Antonio Gil Romero
 **Materia:** Arquitecturas de Software (ARSW)  
 **Institución:** Escuela Colombiana de Ingeniería  
 **Fecha:** Junio 2026
@@ -34,6 +34,9 @@ npm run dev
 # video
 - en el video se logra evidenciar como en el front no se tiene conexion hasta generar el inicio del back donde se implementa la generacion de los turnos y la conexion del websocket donde como se mostro en el diagrama los pacientes y la recepcion estan conectados al front que se conecta con el back que tiene el cliente concurrente.
 
-
 https://youtu.be/VaeNJ6jDAuo
+
+- para ete segundo video es mas un caso de prueba donde podmeos ver que se realizan peticiones de turnos y en todas las pestañas o usuarios ven en qeu turno va actualmente el llamdo de turno y cada uno tiene su turno y ya es solo que las personas esperen su turno pero en simultaneo pueden ver que turnos se estan llamando 
+
+https://youtu.be/bmuKqwzpu4o
  
