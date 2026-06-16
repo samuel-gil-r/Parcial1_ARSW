@@ -1,5 +1,5 @@
 # Parcial1_ARSW
-**Nombre:** Samuel Antonio Gil Romero
+**Nombre:** Samuel Antonio Gil Romero  
 **Materia:** Arquitecturas de Software (ARSW)  
 **Institución:** Escuela Colombiana de Ingeniería  
 **Fecha:** Junio 2026
